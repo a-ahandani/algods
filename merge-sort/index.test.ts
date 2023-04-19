@@ -1,4 +1,4 @@
-import mergeSort from "./merge-sort";
+import mergeSort from ".";
 
 describe("mergeSort", () => {
   it("should sort numbers", () => {

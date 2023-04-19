@@ -1,4 +1,4 @@
-import bubbleSort from "./bubble-sort";
+import bubbleSort from ".";
 
 // Test cases for bubbleSort function
 describe("bubbleSort", () => {
